@@ -1,4 +1,4 @@
-# VaccineNeed.ai by Saahas Kohli and Daniel Fields
+# VaccineNeed.ai by Daniel Fields and Saahas Kohli
 A web app that visualizes & predicts COVID-19 vaccination trends, and then projects vaccine "need" by county, helping policymakers decide which geographic areas should be allocated the most vaccines.
 
 ![Screenshot](Imgs/Demo.png)
