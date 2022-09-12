@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.modebar{
+      display: none !important;
+}
+
+html {
+/*ss*/
+	max-width: 100%;
+	overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+h4:hover {
+	color: #f1c400;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+body {
+	max-width: 100%;
+/*	font-family:Libre Franklin;*/
+	font-family: 'Rubik', sans-serif;
+	font-size:14px;
+	font-weight:700;
+/*    overflow-y: auto;*/
+    height: 100%;
+    background-color: #000000;
+    color:#fafafa;
+ 	overflow-y: scroll;
+ 	overflow-x: hidden;
+/* 	overflow-x: scroll;*/
+	width: 100%;
+}
+
+.stats {
+	text-align:center;
+	padding:20px;
+	color:#4de601;
+}
+
+.stats1 {
+	text-align:center;
+	color:red;
+	border: 2px solid red;
+	width: 30%;
+	margin:auto;
+}
+
+h4 {
+	color: #fafafa;
+	text-align: center;
+}
+
+table {
+/*	margin-top:60px;*/
+	
+	color: #e60000;
+	background-color: #222323;
+	text-align:center;
+}
+
+tr {
+	height:70px;
+    border-bottom: 0.5px solid #605c5c
+}
+
+th {
+	color: #fafafa;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.tableHeader {
+    border-bottom: #222323;
+}
+
+#linegraph_idname {
+	color: #1f2c56;
+}
+
+#footer {
+	margin-top: 25px;
+	margin-bottom: 35px;
+	text-align:center;
+	background-color:#192444;
+	color: white;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+.Select input {
+	color:white;
+}
+
+.VirtualizedSelectOption {
+    background-color: #1f2c56;
+    color: white;
+}
+
+.VirtualizedSelectFocusedOption {
+    background-color: #5611a6;
+    color: white;
+}
